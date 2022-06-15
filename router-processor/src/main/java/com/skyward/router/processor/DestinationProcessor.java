@@ -4,15 +4,11 @@ import com.google.auto.service.AutoService;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.skyward.router.annotations.Destination;
-
-
-
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.Writer;
 import java.util.Collections;
-import java.util.Map;
 import java.util.Set;
 
 import javax.annotation.processing.AbstractProcessor;

@@ -9,7 +9,7 @@
 
 ### 2. 收集页面
 
-![image-20220614224612125](/Users/skyward/WorkSpace/AndroidProjects/Router/images/APT工作原理.png)
+![image-20220614224612125](./images/APT工作原理.png)
 
 使用注解处理器处理注解信息，生成mapping_timeInMills.json文件和RouterMapping_timeInMills类。
 
